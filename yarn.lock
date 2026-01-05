@@ -5918,6 +5918,14 @@
   dependencies:
     "resolve-from" "^5.0.0"
 
+
+ "resolutions": 
+    "postcss": "8.4.21"
+  
+
+
+
+
 "resolve-from@^4.0.0":
   "integrity" "sha512-pb/MYmXstAkysRFx8piNI1tGFNQIFA3vkE3Gq4EuA1dF6gHp/+vgZqsCGJapvy8N3Q+4o7FwvquPJcnZ7RYy4g=="
   "resolved" "https://registry.npmjs.org/resolve-from/-/resolve-from-4.0.0.tgz"
